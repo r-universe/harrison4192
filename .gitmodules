@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "autostats"]
+	path = autostats
+	url = https://github.com/harrison4192/autostats
+	shallow = true
+	registered = true
+[submodule "framecleaner"]
+	path = framecleaner
+	url = https://github.com/harrison4192/framecleaner
+	shallow = true
+	registered = true
+[submodule "presenter"]
+	path = presenter
+	url = https://github.com/harrison4192/presenter
+	shallow = true
+	registered = true
+[submodule "tidybins"]
+	path = tidybins
+	url = https://github.com/harrison4192/tidybins
+	shallow = true
+	registered = true
+[submodule "TidyConsultant"]
+	path = TidyConsultant
+	url = https://github.com/harrison4192/tidyconsultant
+	shallow = true
+	registered = true
+[submodule "validata"]
+	path = validata
+	url = https://github.com/harrison4192/validata
+	shallow = true
+	registered = true
