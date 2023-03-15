@@ -1,6 +1,6 @@
 [
   {
-    "package": "TidyConsultant",
+    "package": "autostats",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "autostats",
+    "package": "tidybins",
     "oncran": true
   },
   {
-    "package": "tidybins",
+    "package": "TidyConsultant",
     "oncran": true
   },
   {
