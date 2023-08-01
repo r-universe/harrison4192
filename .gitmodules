@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TidyConsultant"]
+	path = TidyConsultant
+	url = https://github.com/harrison4192/tidyconsultant
 [submodule "autostats"]
 	path = autostats
 	url = https://github.com/harrison4192/autostats
@@ -14,9 +17,6 @@
 [submodule "tidybins"]
 	path = tidybins
 	url = https://github.com/harrison4192/tidybins
-[submodule "TidyConsultant"]
-	path = TidyConsultant
-	url = https://github.com/harrison4192/tidyconsultant
 [submodule "validata"]
 	path = validata
 	url = https://github.com/harrison4192/validata
