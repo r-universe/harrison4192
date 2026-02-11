@@ -11,9 +11,6 @@
 [submodule "presenter"]
 	path = presenter
 	url = https://github.com/harrison4192/presenter
-[submodule "tidybins"]
-	path = tidybins
-	url = https://github.com/harrison4192/tidybins
 [submodule "validata"]
 	path = validata
 	url = https://github.com/harrison4192/validata
